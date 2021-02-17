@@ -1,0 +1,43 @@
+/*
+ * @author  Aracely Berrocal y Marta Molina
+ */
+ 
+* {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  height: 10%;
+  background-color: #eeeeee;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+.section {
+  height: 80%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: #eeeeee;
+  font-size: 12px;
+}
+footer {
+  width: 100%;
+  height: 10%;
+  background-color: #f05d5d9a;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+}
+.cuadrado {
+  background-color: #f74435;
+  width: 16%;
+  height: 40%;
+  padding: 10px;
+}
+
